@@ -1,6 +1,6 @@
-📈 DualMA Trader — SMA Crossover Backtest & Visualizer
+Dual Moving Avg Trader — SMA Crossover Backtest & Visualizer
 
-A simple yet complete algorithmic trading project that implements and backtests a dual moving average (SMA) crossover strategy in Python. The project uses historical market data from Yahoo Finance and visualizes buy/sell signals with Plotly.
+A very simple yet complete algorithmic trading project that implements and backtests a dual moving average (SMA) crossover strategy in Python. The project uses historical market data from Yahoo Finance and visualizes buy/sell signals with Plotly.
 
 🚀 Overview
 
