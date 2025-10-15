@@ -20,7 +20,7 @@ Example ticker: GC=F (Gold Futures), but you can easily change it with the choic
 
 Install dependencies:
 
-pip install numpy pandas matplotlib plotly yfinance backtesting
+``` pip install numpy pandas matplotlib plotly yfinance backtesting```
 
 ▶️ How to Run
 
